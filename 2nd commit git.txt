@@ -1,1 +1,2 @@
 2nd commit git 
+changes commited in branch 1 
